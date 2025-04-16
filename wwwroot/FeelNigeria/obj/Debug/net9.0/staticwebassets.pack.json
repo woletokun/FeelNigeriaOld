@@ -1,0 +1,737 @@
+{
+  "Files": [
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/404.html",
+      "PackagePath": "staticwebassets/404.html"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/LICENSE.txt",
+      "PackagePath": "staticwebassets/LICENSE.txt"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/READ-ME.txt",
+      "PackagePath": "staticwebassets/READ-ME.txt"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/about.html",
+      "PackagePath": "staticwebassets/about.html"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/blog.html",
+      "PackagePath": "staticwebassets/blog.html"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/booking.html",
+      "PackagePath": "staticwebassets/booking.html"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/contact.html",
+      "PackagePath": "staticwebassets/contact.html"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/css/bootstrap.min - Copy.css",
+      "PackagePath": "staticwebassets/css/bootstrap.min - Copy.css"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/css/style.css",
+      "PackagePath": "staticwebassets/css/style.css"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/destination.html",
+      "PackagePath": "staticwebassets/destination.html"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/gallery.html",
+      "PackagePath": "staticwebassets/gallery.html"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/guides.html",
+      "PackagePath": "staticwebassets/guides.html"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/img/33.jpg",
+      "PackagePath": "staticwebassets/img/33.jpg"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/img/51.jpg",
+      "PackagePath": "staticwebassets/img/51.jpg"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/img/about-img-.jpg",
+      "PackagePath": "staticwebassets/img/about-img-.jpg"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/img/about-img-1.png",
+      "PackagePath": "staticwebassets/img/about-img-1.png"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/img/about-img.jpg",
+      "PackagePath": "staticwebassets/img/about-img.jpg"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/img/blog-1.jpg",
+      "PackagePath": "staticwebassets/img/blog-1.jpg"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/img/blog-2.jpg",
+      "PackagePath": "staticwebassets/img/blog-2.jpg"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/img/blog-3.jpg",
+      "PackagePath": "staticwebassets/img/blog-3.jpg"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/img/breadcrumb-bg.jpg",
+      "PackagePath": "staticwebassets/img/breadcrumb-bg.jpg"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/img/carousel-1.jpg",
+      "PackagePath": "staticwebassets/img/carousel-1.jpg"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/img/carousel-2.jpg",
+      "PackagePath": "staticwebassets/img/carousel-2.jpg"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/img/carousel-3.jpg",
+      "PackagePath": "staticwebassets/img/carousel-3.jpg"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/img/destination-1.jpg",
+      "PackagePath": "staticwebassets/img/destination-1.jpg"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/img/destination-2.jpg",
+      "PackagePath": "staticwebassets/img/destination-2.jpg"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/img/destination-3.jpg",
+      "PackagePath": "staticwebassets/img/destination-3.jpg"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/img/destination-4.jpg",
+      "PackagePath": "staticwebassets/img/destination-4.jpg"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/img/destination-5.jpg",
+      "PackagePath": "staticwebassets/img/destination-5.jpg"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/img/destination-6.jpg",
+      "PackagePath": "staticwebassets/img/destination-6.jpg"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/img/destination-7.jpg",
+      "PackagePath": "staticwebassets/img/destination-7.jpg"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/img/destination-8.jpg",
+      "PackagePath": "staticwebassets/img/destination-8.jpg"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/img/destination-9.jpg",
+      "PackagePath": "staticwebassets/img/destination-9.jpg"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/img/destination-9_.jpg",
+      "PackagePath": "staticwebassets/img/destination-9_.jpg"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/img/explore-tour-1.jpg",
+      "PackagePath": "staticwebassets/img/explore-tour-1.jpg"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/img/explore-tour-2.jpg",
+      "PackagePath": "staticwebassets/img/explore-tour-2.jpg"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/img/explore-tour-3.jpg",
+      "PackagePath": "staticwebassets/img/explore-tour-3.jpg"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/img/explore-tour-4.jpg",
+      "PackagePath": "staticwebassets/img/explore-tour-4.jpg"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/img/explore-tour-5.jpg",
+      "PackagePath": "staticwebassets/img/explore-tour-5.jpg"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/img/explore-tour-6.jpg",
+      "PackagePath": "staticwebassets/img/explore-tour-6.jpg"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/img/gallery-1.jpg",
+      "PackagePath": "staticwebassets/img/gallery-1.jpg"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/img/gallery-10.jpg",
+      "PackagePath": "staticwebassets/img/gallery-10.jpg"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/img/gallery-11.jpg",
+      "PackagePath": "staticwebassets/img/gallery-11.jpg"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/img/gallery-12.jpg",
+      "PackagePath": "staticwebassets/img/gallery-12.jpg"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/img/gallery-2.jpg",
+      "PackagePath": "staticwebassets/img/gallery-2.jpg"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/img/gallery-3.jpg",
+      "PackagePath": "staticwebassets/img/gallery-3.jpg"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/img/gallery-4-.jpg",
+      "PackagePath": "staticwebassets/img/gallery-4-.jpg"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/img/gallery-4.jpg",
+      "PackagePath": "staticwebassets/img/gallery-4.jpg"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/img/gallery-5.jpg",
+      "PackagePath": "staticwebassets/img/gallery-5.jpg"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/img/gallery-6.jpg",
+      "PackagePath": "staticwebassets/img/gallery-6.jpg"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/img/gallery-7.jpg",
+      "PackagePath": "staticwebassets/img/gallery-7.jpg"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/img/gallery-8.jpg",
+      "PackagePath": "staticwebassets/img/gallery-8.jpg"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/img/gallery-9.jpg",
+      "PackagePath": "staticwebassets/img/gallery-9.jpg"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/img/guide-1.jpg",
+      "PackagePath": "staticwebassets/img/guide-1.jpg"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/img/guide-2.jpg",
+      "PackagePath": "staticwebassets/img/guide-2.jpg"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/img/guide-3.jpg",
+      "PackagePath": "staticwebassets/img/guide-3.jpg"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/img/guide-4.jpg",
+      "PackagePath": "staticwebassets/img/guide-4.jpg"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/img/packages-1.jpg",
+      "PackagePath": "staticwebassets/img/packages-1.jpg"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/img/packages-2.jpg",
+      "PackagePath": "staticwebassets/img/packages-2.jpg"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/img/packages-3.jpg",
+      "PackagePath": "staticwebassets/img/packages-3.jpg"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/img/packages-4.jpg",
+      "PackagePath": "staticwebassets/img/packages-4.jpg"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/img/subscribe-img.jpg",
+      "PackagePath": "staticwebassets/img/subscribe-img.jpg"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/img/testimonial-1.jpg",
+      "PackagePath": "staticwebassets/img/testimonial-1.jpg"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/img/testimonial-2.jpg",
+      "PackagePath": "staticwebassets/img/testimonial-2.jpg"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/img/testimonial-3.jpg",
+      "PackagePath": "staticwebassets/img/testimonial-3.jpg"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/img/testimonial-4.jpg",
+      "PackagePath": "staticwebassets/img/testimonial-4.jpg"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/img/tour-booking-bg.jpg",
+      "PackagePath": "staticwebassets/img/tour-booking-bg.jpg"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/js/main.js",
+      "PackagePath": "staticwebassets/js/main.js"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/lib/easing/easing.js",
+      "PackagePath": "staticwebassets/lib/easing/easing.js"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/lib/easing/easing.min.js",
+      "PackagePath": "staticwebassets/lib/easing/easing.min.js"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/lib/lightbox/css/lightbox.min.css",
+      "PackagePath": "staticwebassets/lib/lightbox/css/lightbox.min.css"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/lib/lightbox/images/close.png",
+      "PackagePath": "staticwebassets/lib/lightbox/images/close.png"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/lib/lightbox/images/loading.gif",
+      "PackagePath": "staticwebassets/lib/lightbox/images/loading.gif"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/lib/lightbox/images/next.png",
+      "PackagePath": "staticwebassets/lib/lightbox/images/next.png"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/lib/lightbox/images/prev.png",
+      "PackagePath": "staticwebassets/lib/lightbox/images/prev.png"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/lib/lightbox/js/lightbox.min.js",
+      "PackagePath": "staticwebassets/lib/lightbox/js/lightbox.min.js"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/lib/owlcarousel/LICENSE",
+      "PackagePath": "staticwebassets/lib/owlcarousel"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/lib/owlcarousel/assets/ajax-loader.gif",
+      "PackagePath": "staticwebassets/lib/owlcarousel/assets/ajax-loader.gif"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/lib/owlcarousel/assets/owl.carousel.css",
+      "PackagePath": "staticwebassets/lib/owlcarousel/assets/owl.carousel.css"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/lib/owlcarousel/assets/owl.carousel.min.css",
+      "PackagePath": "staticwebassets/lib/owlcarousel/assets/owl.carousel.min.css"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/lib/owlcarousel/assets/owl.theme.default.css",
+      "PackagePath": "staticwebassets/lib/owlcarousel/assets/owl.theme.default.css"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/lib/owlcarousel/assets/owl.theme.default.min.css",
+      "PackagePath": "staticwebassets/lib/owlcarousel/assets/owl.theme.default.min.css"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/lib/owlcarousel/assets/owl.theme.green.css",
+      "PackagePath": "staticwebassets/lib/owlcarousel/assets/owl.theme.green.css"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/lib/owlcarousel/assets/owl.theme.green.min.css",
+      "PackagePath": "staticwebassets/lib/owlcarousel/assets/owl.theme.green.min.css"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/lib/owlcarousel/assets/owl.video.play.png",
+      "PackagePath": "staticwebassets/lib/owlcarousel/assets/owl.video.play.png"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/lib/owlcarousel/owl.carousel.js",
+      "PackagePath": "staticwebassets/lib/owlcarousel/owl.carousel.js"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/lib/owlcarousel/owl.carousel.min.js",
+      "PackagePath": "staticwebassets/lib/owlcarousel/owl.carousel.min.js"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/lib/waypoints/links.php",
+      "PackagePath": "staticwebassets/lib/waypoints/links.php"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/lib/waypoints/waypoints.min.js",
+      "PackagePath": "staticwebassets/lib/waypoints/waypoints.min.js"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/packages.html",
+      "PackagePath": "staticwebassets/packages.html"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/scss/bootstrap.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap.scss"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/scss/bootstrap/scss/_accordion.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/_accordion.scss"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/scss/bootstrap/scss/_alert.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/_alert.scss"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/scss/bootstrap/scss/_badge.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/_badge.scss"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/scss/bootstrap/scss/_breadcrumb.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/_breadcrumb.scss"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/scss/bootstrap/scss/_button-group.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/_button-group.scss"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/scss/bootstrap/scss/_buttons.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/_buttons.scss"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/scss/bootstrap/scss/_card.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/_card.scss"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/scss/bootstrap/scss/_carousel.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/_carousel.scss"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/scss/bootstrap/scss/_close.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/_close.scss"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/scss/bootstrap/scss/_containers.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/_containers.scss"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/scss/bootstrap/scss/_dropdown.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/_dropdown.scss"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/scss/bootstrap/scss/_forms.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/_forms.scss"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/scss/bootstrap/scss/_functions.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/_functions.scss"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/scss/bootstrap/scss/_grid.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/_grid.scss"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/scss/bootstrap/scss/_helpers.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/_helpers.scss"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/scss/bootstrap/scss/_images.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/_images.scss"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/scss/bootstrap/scss/_list-group.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/_list-group.scss"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/scss/bootstrap/scss/_mixins.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/_mixins.scss"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/scss/bootstrap/scss/_modal.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/_modal.scss"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/scss/bootstrap/scss/_nav.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/_nav.scss"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/scss/bootstrap/scss/_navbar.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/_navbar.scss"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/scss/bootstrap/scss/_offcanvas.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/_offcanvas.scss"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/scss/bootstrap/scss/_pagination.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/_pagination.scss"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/scss/bootstrap/scss/_popover.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/_popover.scss"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/scss/bootstrap/scss/_progress.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/_progress.scss"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/scss/bootstrap/scss/_reboot.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/_reboot.scss"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/scss/bootstrap/scss/_root.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/_root.scss"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/scss/bootstrap/scss/_spinners.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/_spinners.scss"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/scss/bootstrap/scss/_tables.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/_tables.scss"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/scss/bootstrap/scss/_toasts.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/_toasts.scss"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/scss/bootstrap/scss/_tooltip.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/_tooltip.scss"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/scss/bootstrap/scss/_transitions.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/_transitions.scss"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/scss/bootstrap/scss/_type.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/_type.scss"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/scss/bootstrap/scss/_utilities.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/_utilities.scss"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/scss/bootstrap/scss/_variables.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/_variables.scss"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/scss/bootstrap/scss/bootstrap-grid.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/bootstrap-grid.scss"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/scss/bootstrap/scss/bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/bootstrap-reboot.scss"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/scss/bootstrap/scss/bootstrap-utilities.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/bootstrap-utilities.scss"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/scss/bootstrap/scss/bootstrap.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/bootstrap.scss"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/scss/bootstrap/scss/forms/_floating-labels.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/forms/_floating-labels.scss"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/scss/bootstrap/scss/forms/_form-check.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/forms/_form-check.scss"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/scss/bootstrap/scss/forms/_form-control.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/forms/_form-control.scss"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/scss/bootstrap/scss/forms/_form-range.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/forms/_form-range.scss"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/scss/bootstrap/scss/forms/_form-select.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/forms/_form-select.scss"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/scss/bootstrap/scss/forms/_form-text.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/forms/_form-text.scss"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/scss/bootstrap/scss/forms/_input-group.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/forms/_input-group.scss"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/scss/bootstrap/scss/forms/_labels.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/forms/_labels.scss"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/scss/bootstrap/scss/forms/_validation.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/forms/_validation.scss"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/scss/bootstrap/scss/helpers/_clearfix.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/helpers/_clearfix.scss"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/scss/bootstrap/scss/helpers/_colored-links.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/helpers/_colored-links.scss"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/scss/bootstrap/scss/helpers/_position.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/helpers/_position.scss"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/scss/bootstrap/scss/helpers/_ratio.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/helpers/_ratio.scss"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/scss/bootstrap/scss/helpers/_stretched-link.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/helpers/_stretched-link.scss"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/scss/bootstrap/scss/helpers/_text-truncation.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/helpers/_text-truncation.scss"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/scss/bootstrap/scss/helpers/_visually-hidden.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/helpers/_visually-hidden.scss"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/scss/bootstrap/scss/mixins/_alert.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/mixins/_alert.scss"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/scss/bootstrap/scss/mixins/_border-radius.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/mixins/_border-radius.scss"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/scss/bootstrap/scss/mixins/_box-shadow.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/mixins/_box-shadow.scss"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/scss/bootstrap/scss/mixins/_breakpoints.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/mixins/_breakpoints.scss"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/scss/bootstrap/scss/mixins/_buttons.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/mixins/_buttons.scss"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/scss/bootstrap/scss/mixins/_caret.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/mixins/_caret.scss"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/scss/bootstrap/scss/mixins/_clearfix.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/mixins/_clearfix.scss"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/scss/bootstrap/scss/mixins/_color-scheme.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/mixins/_color-scheme.scss"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/scss/bootstrap/scss/mixins/_container.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/mixins/_container.scss"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/scss/bootstrap/scss/mixins/_deprecate.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/mixins/_deprecate.scss"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/scss/bootstrap/scss/mixins/_forms.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/mixins/_forms.scss"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/scss/bootstrap/scss/mixins/_gradients.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/mixins/_gradients.scss"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/scss/bootstrap/scss/mixins/_grid.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/mixins/_grid.scss"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/scss/bootstrap/scss/mixins/_image.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/mixins/_image.scss"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/scss/bootstrap/scss/mixins/_list-group.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/mixins/_list-group.scss"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/scss/bootstrap/scss/mixins/_lists.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/mixins/_lists.scss"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/scss/bootstrap/scss/mixins/_pagination.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/mixins/_pagination.scss"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/scss/bootstrap/scss/mixins/_reset-text.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/mixins/_reset-text.scss"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/scss/bootstrap/scss/mixins/_resize.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/mixins/_resize.scss"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/scss/bootstrap/scss/mixins/_table-variants.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/mixins/_table-variants.scss"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/scss/bootstrap/scss/mixins/_text-truncate.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/mixins/_text-truncate.scss"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/scss/bootstrap/scss/mixins/_transition.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/mixins/_transition.scss"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/scss/bootstrap/scss/mixins/_utilities.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/mixins/_utilities.scss"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/scss/bootstrap/scss/mixins/_visually-hidden.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/mixins/_visually-hidden.scss"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/scss/bootstrap/scss/utilities/_api.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/utilities/_api.scss"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/scss/bootstrap/scss/vendor/_rfs.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/vendor/_rfs.scss"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/services.html",
+      "PackagePath": "staticwebassets/services.html"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/testimonial.html",
+      "PackagePath": "staticwebassets/testimonial.html"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/tour.html",
+      "PackagePath": "staticwebassets/tour.html"
+    },
+    {
+      "Id": "/mnt/c/Users/TOKS/Downloads/Feel Nigeria/wwwroot/FeelNigeria/wwwroot/tourism-website-template.jpg",
+      "PackagePath": "staticwebassets/tourism-website-template.jpg"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.FeelNigeria.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.FeelNigeria.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.build.FeelNigeria.props",
+      "PackagePath": "build\\FeelNigeria.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.FeelNigeria.props",
+      "PackagePath": "buildMultiTargeting\\FeelNigeria.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.FeelNigeria.props",
+      "PackagePath": "buildTransitive\\FeelNigeria.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
